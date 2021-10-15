@@ -12,6 +12,7 @@ $(function(){
   function saySomething(txt){
       $("#content").text(txt);
   }
+
   
 
 })
